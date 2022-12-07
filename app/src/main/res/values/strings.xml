@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginUI</string>
+    <string name="login_title">Let\'s Make Travel Fun</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="keep_signed_in">Keep me Signed in</string>
+    <string name="sign_in">Sign in</string>
+    <string name="dot_between_line">Dot between line</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="google_login">Google Login</string>
+    <string name="contacts">Contacts</string>
+</resources>
