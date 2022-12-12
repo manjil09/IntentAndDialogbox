@@ -3,11 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.23" />
         <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable/custom_button.xml" value="0.2505" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable/custom_shape.xml" value="0.23" />
         <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable/example1.xml" value="0.23" />
         <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable/gradient_button.xml" value="0.23" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable/ic_launcher_background.xml" value="0.23" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/drawable/ic_round_sports_baseball_24.xml" value="0.23" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/layout/activity_contact_open.xml" value="0.21621621621621623" />
         <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/layout/activity_login.xml" value="0.16" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/layout/activity_main.xml" value="0.21621621621621623" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/LoginUI/app/src/main/res/layout/custom_layout.xml" value="0.2153153153153153" />
       </map>
     </option>
   </component>
